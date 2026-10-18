@@ -21,9 +21,9 @@
 
 ## About Me
 
-I am a data-focused professional with experience in analytics, data quality, business intelligence, and process optimization. Currently working as a Data & Quality Analyst at Accenture, I build dashboards, automate validation workflows, and support data-driven decision making across business and financial operations.
+I am a data-focused professional with experience in analytics, data quality, business intelligence, and process optimization. Currently working as a Quality Analyst at Accenture, I build SQL queries and Power BI dashboards, automate validation workflows, and support data-driven decision making across business operations.
 
-My work combines technical analysis with business context, helping teams improve reporting accuracy, reduce manual effort, and maintain strong governance over critical data sets. I enjoy turning messy operational data into structured insights, reliable KPIs, and scalable reporting solutions.
+My work combines technical analysis with business context, helping teams improve reporting accuracy, reduce manual effort (cutting rework by 30%), and maintain strong governance over critical enterprise marketing data sets. I enjoy turning messy operational data into structured insights, reliable KPIs, and scalable reporting solutions.
 
 I’m actively looking for opportunities in Data Analyst, Business Analyst, or BI Analyst roles.
 
@@ -51,53 +51,64 @@ I’m actively looking for opportunities in Data Analyst, Business Analyst, or B
 ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-DC3545?style=flat-square)
 ![RFM](https://img.shields.io/badge/RFM-6C63FF?style=flat-square)
 ![Cohort_Analysis](https://img.shields.io/badge/Cohort_Analysis-02B3E4?style=flat-square)
-![Fraud_Risk](https://img.shields.io/badge/Fraud_Risk-FF6B6B?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF6B6B?style=flat-square)
 
 ---
 
 ## Featured Projects
 
-### 🛒 [E-Commerce Analytics, Segmentation & Cohort Performance](https://github.com/divanshujain17/E-commerce_analytics-segmentation_cohort_performance)
+### 🛒 [E-Commerce Customer & Product Analytics](https://github.com/divanshujain17/E-commerce_analytics-segmentation_cohort_performance)
 > SQL · Python · Power BI · RFM · Cohort Analysis
+* Analyzed 95K+ customers and 98K+ orders to identify revenue, product, and geographic trends. 
+* Applied RFM segmentation to classify customers, identifying that 96.95% made only one purchase.
+* Built a 5-page Power BI dashboard tracking $13.6M in revenue and executive KPIs for business decision-making.
 
-Built an end-to-end customer analytics project using an e-commerce dataset to analyze customer behavior, retention, product performance, and repeat purchase patterns. The project covers segmentation, cohort tracking, revenue analysis, and business-focused KPI reporting.
-
-### 💳 [Client Financial Data Quality & Reconciliation BI Reporting](https://github.com/divanshujain17/Client-Financial-Data-Quality-Reconciliation-BI-Reporting)
+### 💳 [Client Financial Data Quality & Reconciliation](https://github.com/divanshujain17/Client-Financial-Data-Quality-Reconciliation-BI-Reporting)
 > SQL · Python · Power BI · Data Quality · Reconciliation
-
-Created a financial data quality framework covering completeness, uniqueness, integrity checks, variance analysis, and reconciliation across client datasets. The solution emphasizes automated validation, anomaly detection, and diagnostic reporting for finance operations.
+* Built a banking data quality and reconciliation framework to assess completeness, duplicates, referential integrity, and variances.
+* Performed period-over-period and system-to-system reconciliation using SQL CTEs and window functions.
+* Developed customer analytics using RFM segmentation and customer lifetime value (CLV) calculations.
 
 ### 🏦 [Bank Transaction Data Quality & Fraud Risk Control](https://github.com/divanshujain17/Bank-Tx-Data-Quality-Fraud-Risk-Control)
 > SQL · Python · Scikit-learn · MySQL · Power BI
+* Designed a transaction quality and fraud monitoring pipeline using SQL for profiling, balance reconciliation, and error tracking.
+* Applied Z-score, Isolation Forest, and Local Outlier Factor models to support fraud risk scoring.
+* Identified 263 reconciliation errors, 9 high-risk flags, and 1 confirmed fraud case, tracking outputs in Power BI.
 
-Designed a transaction quality and fraud monitoring pipeline focused on data validation, anomaly detection, and risk controls. The project applies automated checks and ML-based models to improve data integrity and identify suspicious transaction behavior.
+---
 
-### 👥 [Customer Analysis](https://github.com/divanshujain17/Customer-Analysis)
-> SQL · Python · MySQL · Seaborn
+## Experience Highlights
 
-Worked on retail customer segmentation analysis using transactional data to identify high-value customer cohorts, revenue-driving products, and purchase trends. This project combines database design, exploratory analysis, and insight generation.
+### Quality Analyst — Buzzworks Business Services Pvt Ltd (Deployed at Accenture)
+*Nov 2023 – Present*
+- Built SQL queries and Power BI dashboards using operational data to track KPIs and campaign performance, improving reporting visibility.
+- Created Excel reports to track deliverables and trends, enabling faster, data-informed operational reviews daily.
+- Maintained 95% data accuracy across enterprise marketing operations through structured validation, SQL checks, and quality controls.
+- Reduced rework by 30% and improved operational efficiency by 15% by identifying duplicate records, upstream data gaps, and bottlenecks.
+- Conducted ad hoc A/B-style testing of campaign or process changes to help teams assess performance and data outputs.
+
+### Accounts Executive (Business Operations) — PVK & Co.
+*Dec 2019 – Apr 2022*
+- Managed tax filings, accounting, client data, LBT audits, MCA/ROC compliances, and payroll.
+- Maintained books of accounts and prepared accurate financial statements to support timely reporting.
+- Handled client and financial data with strong attention to detail while meeting recurring financial deadlines.
+- Applied analytical and problem-solving skills to resolve process issues and communicate effectively with clients.
+
+---
+
+## Education & Achievements
+
+- **B.Sc in Information Technology** — SIES College of Arts, Science and Commerce (Apr 2017 - Jun 2023)
+- **Star of the Month (July 2024)** — Awarded at Accenture for analytics-led improvements across marketing campaign streams (recognized among the top 5% of staff).
 
 ---
 
 ## Certifications
 
 - Google Data Analytics Professional Certificate — Google / Coursera
-- McKinsey Forward Program — McKinsey & Company
 - Excel Skills Virtual Experience — JPMorgan Chase & Co.
+- McKinsey Forward Program — McKinsey & Company
 - AI for India 2.0 — GUVI
-
----
-
-## Experience Highlights
-
-### Quality Analyst (Data & Analytics) — Accenture
-Dec 2023 – Present
-
-- Built and maintained Power BI dashboards to streamline reporting and reduce manual effort
-- Automated data validation workflows to improve data quality and audit integrity
-- Performed root cause analysis to detect process gaps and data anomalies
-- Supported operational reporting and business KPIs across financial and data-heavy processes
-- Improved process efficiency and reporting cycle time through analytics-led automation
 
 ---
 
